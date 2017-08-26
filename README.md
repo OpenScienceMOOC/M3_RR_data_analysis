@@ -6,3 +6,11 @@ Learning Objectives (specific): Specific objective will include workflow design,
 
 - LO3a: Learn about the nature of reproducible research, what the key requirements are, and which resources are available to support a workflow for reproducible research (knowledge)
 - LO3b: Be able to use available resources for reproducible research; be able to use a workflow which leads to reproducible research
+
+## 3.1: Workflow: early planning for efficient work
+
+## 3.2: Data management
+
+## 3.3: Reproducible analysis
+
+## 3.4: Dynamic reporting
